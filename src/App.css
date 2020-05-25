@@ -1,0 +1,21 @@
+* {
+  background-color: #143C8D;
+}
+
+.App {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.App h1 {
+  color: white;
+}
+
+.App strong {
+  color: #1EBDDE;
+}
+
+.logo-conexão {
+  height: 40vmin;
+  pointer-events: none;
+}
